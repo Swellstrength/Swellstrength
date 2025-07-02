@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Swell Strength | Personal Training</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #121212;
+      color: #f0f0f0;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #1e1e1e;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    nav {
+      text-align: center;
+      margin: 1rem 0;
+    }
+    nav a {
+      color: #00adb5;
+      text-decoration: none;
+      margin: 0 1rem;
+      font-weight: bold;
+    }
+    .section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      border-bottom: 2px solid #00adb5;
+      padding-bottom: 0.5rem;
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+    footer {
+      background-color: #1e1e1e;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 1rem;
+      background-color: #00adb5;
+      color: #fff;
+      padding: 0.75rem 1.5rem;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Swell Strength</h1>
+    <p>Your Strength, Your Way. Coaching for Everyday Athletes.</p>
+    <nav>
+      <a href="#services">Services</a>
+      <a href="#coaching">Coaching</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="section" id="about">
+    <h2>About</h2>
+    <p>Hey, I'm a personal trainer passionate about helping people get stronger, faster, and healthier — no matter their background. From general population to athletes, I build programs that fit your lifestyle and goals. Whether you're chasing performance or just want to feel better every day, I'm here to support you.</p>
+  </section>
+
+  <section class="section" id="services">
+    <h2>What I Offer</h2>
+    <ul>
+      <li><strong>Fitness Assessments & Appraisals</strong>
+        <ul>
+          <li>Body composition measurements</li>
+          <li>Fitness testing (strength, cardio, flexibility, etc.)</li>
+        </ul>
+      </li>
+      <li><strong>Goal Setting and Progress Tracking</strong>
+        <ul>
+          <li>SMART goals</li>
+          <li>Weekly or monthly check-ins</li>
+        </ul>
+      </li>
+      <li><strong>Program Design</strong>
+        <ul>
+          <li>Customised workout plans (home/gym/sport-specific)</li>
+          <li>Periodised programs (strength, hypertrophy, fat loss)</li>
+        </ul>
+      </li>
+      <li><strong>Nutritional Guidance</strong> (within scope)
+        <ul>
+          <li>Healthy eating advice</li>
+          <li>Caloric needs and macronutrient basics</li>
+        </ul>
+      </li>
+      <li><strong>Sport-Specific Conditioning</strong>
+        <ul>
+          <li>Sprinting, agility, vertical jump training</li>
+          <li>Off-season, pre-season, or in-season programs</li>
+        </ul>
+      </li>
+      <li><strong>Lifestyle Coaching</strong>
+        <ul>
+          <li>Sleep, stress management, routine building</li>
+        </ul>
+      </li>
+      <li><strong>Online Coaching</strong>
+        <ul>
+          <li>Virtual check-ins</li>
+          <li>App-based support and programming</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section class="section" id="contact">
+    <h2>Let's Work Together</h2>
+    <p>DM me on Instagram or send me an email to start your journey.</p>
+    <a class="button" href="https://www.instagram.com/pt.bagel/" target="_blank">@pt.bagel</a>
+  </section>
+
+  <footer>
+    &copy; 2025 Swell Strength. All rights reserved.
+  </footer>
+</body>
+</html>
