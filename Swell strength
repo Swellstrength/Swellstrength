@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Swell Strength - Science-Based Muscle and Strength Programs for All Levels">
+  <title>Swell Strength | Build Strength. Build Confidence.</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Inter', sans-serif;
+    }
+    body {
+      line-height: 1.6;
+      background: #f9f9f9;
+      color: #222;
+    }
+    header {
+      background: #1a1a1a;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    header p {
+      font-size: 1.2rem;
+    }
+    nav {
+      background: #333;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 3rem 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    section h2 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: #1a1a1a;
+    }
+    section p {
+      margin-bottom: 1.5rem;
+    }
+    .stage {
+      background: #fff;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      margin-bottom: 2rem;
+    }
+    .cta {
+      background: #0077ff;
+      color: #fff;
+      padding: 1rem 2rem;
+      display: inline-block;
+      border-radius: 5px;
+      text-decoration: none;
+      margin-top: 1rem;
+    }
+    footer {
+      background: #1a1a1a;
+      color: #ccc;
+      padding: 2rem;
+      text-align: center;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Swell Strength</h1>
+    <p>Build Strength. Build Confidence. Build You.</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#stages">5 Stage System</a>
+    <a href="#free">Free Resources</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>Who We Are</h2>
+    <p>Swell Strength delivers science-backed fitness solutions to help you transform your physique and performance. Whether you're just getting started or you've been lifting for years, we guide you through every phase of your journey. No fads, no fluff—just real results based on the latest research and practical training principles.</p>
+  </section>
+
+  <section id="stages">
+    <h2>The 5 Stages of Strength & Aesthetic Mastery</h2>
+
+    <div class="stage">
+      <h3>Stage 1: Foundations</h3>
+      <p>Learn the core principles of hypertrophy and progressive overload. Establish proper form, consistency, and understand the basics of protein intake, sleep, and total volume.</p>
+      <a class="cta" href="#">Start With the Basics</a>
+    </div>
+
+    <div class="stage">
+      <h3>Stage 2: Progressive Builder</h3>
+      <p>Advance to structured routines, logbook tracking, and split training. Learn to manipulate sets, reps, and rest periods for optimized growth.</p>
+      <a class="cta" href="#">Get the 4-Day Builder Plan</a>
+    </div>
+
+    <div class="stage">
+      <h3>Stage 3: Precision Phase</h3>
+      <p>Unlock training intensity with RPE, tempo control, and progressive overload cycles. Dial in macronutrients, sleep hygiene, and recovery to avoid plateaus.</p>
+      <a class="cta" href="#">Download the Precision Toolkit</a>
+    </div>
+
+    <div class="stage">
+      <h3>Stage 4: Specialization</h3>
+      <p>Focus on weak points with advanced techniques like supersets, pre-exhaustion, and mesocycle programming. Tailor training blocks to target lagging body parts.</p>
+      <a class="cta" href="#">Unlock Your Specialization Guide</a>
+    </div>
+
+    <div class="stage">
+      <h3>Stage 5: Mastery</h3>
+      <p>Combine all previous stages into a cohesive yearly plan. Monitor long-term progression, use deloading strategically, and align your training with your life goals.</p>
+      <a class="cta" href="#">Apply for 1-on-1 Coaching</a>
+    </div>
+  </section>
+
+  <section id="free">
+    <h2>Free Resources</h2>
+    <p>We believe everyone deserves access to solid training advice. Grab our free starter guide, beginner workouts, and PDF cheat sheets below:</p>
+    <ul>
+      <li><a href="#">Beginner 3-Day Full Body Plan</a></li>
+      <li><a href="#">Macronutrient Cheat Sheet</a></li>
+      <li><a href="#">Overload & Volume Tracker</a></li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Get In Touch</h2>
+    <p>Have questions or want to work together? Reach out to us directly at <strong>swellstrength@gmail.com</strong> or message us on Instagram @swellstrength.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Swell Strength. All rights reserved.</p>
+    <p>Designed by Brandon Baguley | Built with 💪</p>
+  </footer>
+</body>
+</html>
